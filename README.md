@@ -7,3 +7,5 @@ Here you can find:
 - [My Python code](https://github.com/ANDREAaNAPPI/One-Piece-CNN/blob/main/One%20Piece%20CNN.ipynb)
 - [The data I worked with](https://www.kaggle.com/datasets/ibrahimserouis99/one-piece-image-classifier) Note that This is the original dataset, counting over 11k imgaes, and does include some transformations. In my code I cleaned this data to keep only original images.
 
+I saved the two best performing models according to highest validation accuracy and lowest validation loss, but i couln't upload them here because they are too heavy.
+
