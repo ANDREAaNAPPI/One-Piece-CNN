@@ -5,5 +5,5 @@ I belive I could squeeze out some additional accuracy points by training the mod
 
 Here you can find:
 - [My Python code](https://github.com/ANDREAaNAPPI/One-Piece-CNN/blob/main/One%20Piece%20CNN.ipynb)
-- [The dataset I used](https://www.kaggle.com/datasets/ibrahimserouis99/one-piece-image-classifier) Note that This is the original dataset, counting over 11k imgaes, and does include some transformations. In my code I cleaned this data to keep only original images.
+- [The data I worked with](https://www.kaggle.com/datasets/ibrahimserouis99/one-piece-image-classifier) Note that This is the original dataset, counting over 11k imgaes, and does include some transformations. In my code I cleaned this data to keep only original images.
 
