@@ -9,3 +9,6 @@ Here you can find:
 
 I saved the two best performing models according to highest validation accuracy and lowest validation loss, but i couln't upload them here because they are too heavy.
 
+
+  
+![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/OP_crew.jpg)
