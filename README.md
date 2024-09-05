@@ -11,4 +11,4 @@ I saved the two best performing models according to highest validation accuracy 
 
 
   
-![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/OP_crew.jpg)
+![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/OP_crew.jpeg)
